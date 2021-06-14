@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Molly
+Description=Molly theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/molly
+ScriptFile=/usr/share/plymouth/themes/molly/molly.script
